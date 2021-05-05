@@ -14,12 +14,19 @@ Here are some ideas to get you started:
 
 ---
 
-## Github Stats
+### Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongjaePark&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongjaePark&count_private=true)
 
 ---
 
-## Solved.ac
+### Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongjaePark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Solved.ac
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gndan4)](https://solved.ac/gndan4)
+
