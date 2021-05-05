@@ -2,10 +2,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on node.js, NestJS
-- 🌱 I’m currently learning ... Django, JavaScript, node.js, TypeScript, NestJS
-- 👯 I’m looking to collaborate on ... Server Team
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning ... Django, JavaScript, node.js, TypeScript, & NestJS
+- 📖 I’m Studying hard to work as a Backend Engineer
 - 📫 How to reach me: gndan4@gmail.com
 
 ---
