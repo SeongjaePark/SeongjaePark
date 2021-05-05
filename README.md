@@ -12,4 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gndan4@gmail.com
 -->
 
+---
+
+## Github Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongjaePark&count_private=true)
+
+---
+
+## Solved.ac
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gndan4)](https://solved.ac/gndan4)
