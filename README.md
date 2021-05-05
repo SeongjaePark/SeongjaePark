@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**SeongjaePark/SeongjaePark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on node.js, NestJS
@@ -10,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Server Team
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: gndan4@gmail.com
--->
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgndan4&count_bg=%2300CDBB&title_bg=%230B0B0B&icon=nestjs.svg&icon_color=%23FB0D05&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 
