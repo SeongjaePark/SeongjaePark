@@ -20,12 +20,6 @@ Here are some ideas to get you started:
 
 ---
 
-### Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongjaePark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### Solved.ac
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gndan4)](https://solved.ac/gndan4)
