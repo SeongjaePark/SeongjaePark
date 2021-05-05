@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gndan4@gmail.com
 -->
 
-github-readme-stats.vercel.app/api?username={SeongjaePark}&show_icons=true
+GitHub Readme Stats: github-readme-stats.vercel.app/api?username={SeongjaePark}&show_icons=true
