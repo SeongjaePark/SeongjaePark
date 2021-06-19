@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... Django, JavaScript, node.js, TypeScript, & NestJS
+- 🌱 I’m currently learning ... node.js, TypeScript, & NestJS
 - 📖 I’m Studying hard to work as a Backend Engineer
 - 📫 How to reach me: gndan4@gmail.com
 
